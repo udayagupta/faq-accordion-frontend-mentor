@@ -13,6 +13,7 @@ p {
 
 body {
     font-family: 'Work Sans', sans-serif;
+    background-color: var(--clr-light-pink);
 }
 
 .bg-image {
